@@ -1,38 +1,50 @@
 # Welcome to PomodoroKai! 👋
 
 ## About Us 🌟
-At **PomodoroKai ポモドロ会**, we are on a mission to provide you with a revolutionary timer web service that's all about efficiency and productivity. We're here to help you master your time and unlock your full potential. Get ready to level up your focus game!
+At **PomodoroKai ポモドロ会**, the objective of this project is to develop a web application based on the Kanban style, allowing users to create, organize, and manage task lists. The application will also include a Pomodoro feature to help users focus on their tasks, as well as a messaging window for seamless team communication. Get ready to supercharge your focus!
 
 ## Features 🚀
-Our timer web service offers a range of awesome features to boost your productivity:
+Our timer web application offers a range of powerful features to enhance your productivity:
 
-1. ⏰ **25-Minute Timer**: Our default timer follows the popular Pomodoro Technique, with a focused duration of 25 minutes. Say goodbye to procrastination and hello to maximum productivity!
+1. ⏰ **Customizable Timer**: Set the timer duration according to your preferences. Whether you prefer the classic 25-minute Pomodoro Technique or want to adjust it to your liking, our timer has you covered.
 
-2. ⏸️ **Stop and Resume**: Need a quick break or got interrupted? No worries! You have the power to pause the timer and seamlessly resume when you're ready. Take control of your time!
+2. ⏸️ **Pause and Resume**: Need to take a break or got interrupted? No problem! You can easily pause the timer and resume it whenever you're ready. Take control of your time without any hassle.
 
-3. <img src="https://github.com/PomodoroKai/.github/assets/104838272/ebbf65a2-ca21-4bd3-967b-8670b7a8811c" alt="Spotify" width="20" height="20"> **Spotify Integration** (Work in Progress): We're currently working hard to integrate our timer with Spotify. Soon, you'll be able to elevate your focus with your favorite podcast or specially curated playlists. Stay tuned for this exciting upgrade!
+3. 📊 **Task Tracking**: Keep track of your tasks and their progress. Mark completed tasks and stay organized throughout your work sessions.
 
+4.💬 Integrated Messaging: Communicate in real-time, share updates, and coordinate tasks seamlessly within the application. Enhance teamwork and streamline communication for a more productive workflow. 
 
+## Technology Stack 💻
+Our application is built using the following technologies:
 
-## Contribution Guidelines 💪
-We believe in the strength of community collaboration! If you'd like to contribute to our project, here's how you can get involved:
+- Front-end: HTML, CSS, JavaScript (or React)
+- Back-end: PHP and Laravel
+- UI Design: Tailwind CSS
+- Version Control: Git
 
-1. 🍴 Fork the repository and clone it to your local machine.
-2. 🌿 Create a new branch for your contributions.
-3. 🚀 Make your changes and enhancements, while keeping the minimalist style intact.
-4. ✔️ Test your changes thoroughly to ensure they work as expected.
-5. 💬 Commit your changes and push them to your forked repository.
-6. 📩 Open a pull request, describing your awesome changes and why they should be merged.
-7. 🤝 Our team will review your pull request, provide feedback, and merge it into the main codebase if approved.
+## Future Enhancements 🔮
+We have exciting plans for future enhancements:
 
-We greatly appreciate your interest in contributing to our organization!
+1. 📱 **Mobile App**: We are actively developing a mobile application, allowing you to take the power of PomodoroKai on the go.
 
-## Resources 📚
-To access our web service and dive into the world of focused productivity, please visit our website: **TBA**.
+2. 📊 **Statistics and Analytics**: Gain valuable insights into your productivity and performance with advanced statistics and analytics features.
 
-For detailed documentation and instructions on how to use our timer, check out our **TBA**. Get ready to take your productivity to new heights!
+## Getting Started 🚀
+To experience the PomodoroKai timer and boost your productivity, visit our website: [TBA].
 
-## Fun Facts 😄
-💡 One cool fact about our timer web service is that it's crafted with pure JavaScript, no TypeScript or frameworks involved! We wholeheartedly embrace the simplicity and raw power of JavaScript, allowing us to create a lightweight and efficient solution for our users. By steering clear of additional languages and frameworks, we've achieved a streamlined and minimalist experience. We strongly believe that simplicity is the ultimate catalyst for enhancing productivity and focus. 🔥
+## Contributions and Feedback 💪
+We welcome contributions from the community to make PomodoroKai even better. If you would like to contribute, please follow these steps:
 
-We're thrilled to have you on board with us! If you have any questions or feedback, feel free to reach out. Happy timing and productive vibes! 🚀🌟
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your contributions.
+3. Make your changes, following the established coding style.
+4. Test your changes to ensure they work correctly.
+5. Commit your changes and push them to your forked repository.
+6. Open a pull request, providing a clear description of your changes and why they should be merged.
+
+We appreciate your interest in contributing to PomodoroKai and look forward to your valuable input.
+
+## Contact Us 📧
+If you have any questions, feedback, or suggestions, please reach out to us at [email address].
+
+Thank you for choosing PomodoroKai! Let's make every moment count. 🌟

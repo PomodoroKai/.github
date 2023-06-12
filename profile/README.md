@@ -11,8 +11,8 @@ Our timer web application offers a range of powerful features to enhance your pr
 2. ⏸️ **Pause and Resume**: Need to take a break or got interrupted? No problem! You can easily pause the timer and resume it whenever you're ready. Take control of your time without any hassle.
 
 3. 📊 **Task Tracking**: Keep track of your tasks and their progress. Mark completed tasks and stay organized throughout your work sessions.
+4.  💬 **Integrated Messaging**: Communicate in real-time, share updates, and coordinate tasks seamlessly within the application. Enhance teamwork and streamline communication for a more productive workflow. 
 
-4.💬 Integrated Messaging: Communicate in real-time, share updates, and coordinate tasks seamlessly within the application. Enhance teamwork and streamline communication for a more productive workflow. 
 
 ## Technology Stack 💻
 Our application is built using the following technologies:

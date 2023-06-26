@@ -17,15 +17,16 @@ Our timer web application offers a range of powerful features to enhance your pr
 ## Technology Stack 💻
 Our application is built using the following technologies:
 
-- Front-end: HTML, CSS, JavaScript (or React)
+- Front-end: HTML, CSS, React (Vite)
 - Back-end: PHP and Laravel
-- UI Design: Tailwind CSS
+- UI Design: Tailwind
 - Version Control: Git
+- Mockups: Figma
 
 ## Future Enhancements 🔮
 We have exciting plans for future enhancements:
 
-1. 📱 **Mobile App**: We are actively developing a mobile application, allowing you to take the power of PomodoroKai on the go.
+1. 📱 **Mobile App**: We are aiming to develop a mobile application, allowing you to take the power of PomodoroKai on the go.
 
 2. 📊 **Statistics and Analytics**: Gain valuable insights into your productivity and performance with advanced statistics and analytics features.
 

@@ -1,51 +1,39 @@
 # Welcome to PomodoroKai! 👋
 
 ## About Us 🌟
-At **PomodoroKai ポモドロ会**, the objective of this project is to develop a web application based on the Kanban style, allowing users to create, organize, and manage task lists. The application will also include a Pomodoro feature to help users focus on their tasks, as well as a messaging window for seamless team communication. Get ready to supercharge your focus!
+PomodoroKai ポモドロ会 is a web application that embraces the Kanban methodology, offering users a comprehensive platform to create, organize, and manage task lists efficiently. Our application not only facilitates task management but also integrates a Pomodoro timer to enhance your focus and a real-time messaging feature for seamless team collaboration. Get ready to elevate your productivity!
 
 ## Features 🚀
-Our timer web application offers a range of powerful features to enhance your productivity:
+Experience the power of PomodoroKai with these exciting features:
 
-1. ⏰ **Customizable Timer**: Set the timer duration according to your preferences. Whether you prefer the classic 25-minute Pomodoro Technique or want to adjust it to your liking, our timer has you covered.
+- **Kanban Board**: Organize your tasks using the Kanban board style, making it easy to visualize your workflow and track your progress.
 
-2. ⏸️ **Pause and Resume**: Need to take a break or got interrupted? No problem! You can easily pause the timer and resume it whenever you're ready. Take control of your time without any hassle.
+- **Pomodoro Timer**: Boost your concentration and manage your time effectively with the Pomodoro technique, a proven method for enhancing productivity.
 
-3. 📊 **Task Tracking**: Keep track of your tasks and their progress. Mark completed tasks and stay organized throughout your work sessions.
-4.  💬 **Integrated Messaging**: Communicate in real-time, share updates, and coordinate tasks seamlessly within the application. Enhance teamwork and streamline communication for a more productive workflow. 
-
+- **Real-time Messaging**: Communicate effortlessly with your team members through the built-in messaging window, ensuring smooth and efficient collaboration.
 
 ## Technology Stack 💻
-Our application is built using the following technologies:
+PomodoroKai is developed using the following cutting-edge technologies:
 
-- Front-end: HTML, CSS, React (Vite)
-- Back-end: PHP and Laravel
-- UI Design: Tailwind
-- Version Control: Git
-- Mockups: Figma
+- **React**: A popular JavaScript library for building user interfaces.
+
+- **Vite**: A fast build tool and development server.
+
+- **Tailwind CSS**: A utility-first CSS framework for creating stylish and responsive designs.
+
+- **Supabase**: An open-source platform for building applications with a Postgres database backend.
 
 ## Future Enhancements 🔮
-We have exciting plans for future enhancements:
+We are dedicated to continuous improvement and have exciting plans for future enhancements:
 
-1. 📱 **Mobile App**: We are aiming to develop a mobile application, allowing you to take the power of PomodoroKai on the go.
+1. 📱 **Mobile App**: Stay productive on the go with our upcoming mobile application, bringing the power of PomodoroKai to your pocket.
 
-2. 📊 **Statistics and Analytics**: Gain valuable insights into your productivity and performance with advanced statistics and analytics features.
+2. 📊 **Statistics and Analytics**: Gain valuable insights into your productivity and performance with advanced statistics and analytics features, helping you optimize your work habits.
 
 ## Getting Started 🚀
-To experience the PomodoroKai timer and boost your productivity, visit our website: [TBA].
-
-## Contributions and Feedback 💪
-We welcome contributions from the community to make PomodoroKai even better. If you would like to contribute, please follow these steps:
-
-1. Fork the repository and clone it to your local machine.
-2. Create a new branch for your contributions.
-3. Make your changes, following the established coding style.
-4. Test your changes to ensure they work correctly.
-5. Commit your changes and push them to your forked repository.
-6. Open a pull request, providing a clear description of your changes and why they should be merged.
-
-We appreciate your interest in contributing to PomodoroKai and look forward to your valuable input.
+To harness the full potential of PomodoroKai and supercharge your productivity, simply visit our website: [TBA].
 
 ## Contact Us 📧
-If you have any questions, feedback, or suggestions, please reach out to us at [email address].
+We value your input! If you have any questions, feedback, or suggestions, please don't hesitate to reach out to us at [email address].
 
 Thank you for choosing PomodoroKai! Let's make every moment count. 🌟

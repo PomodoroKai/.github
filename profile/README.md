@@ -3,6 +3,9 @@
 ## About Us 🌟
 PomodoroKai ポモドロ会 is a web application that embraces the Kanban methodology, offering users a comprehensive platform to create, organize, and manage task lists efficiently. Our application not only facilitates task management but also integrates a Pomodoro timer to enhance your focus and a real-time messaging feature for seamless team collaboration. Get ready to elevate your productivity!
 
+## Organization Repo 💻
+<a href="https://github.com/PomodoroKai">POMODOROKAI</a>
+
 ## Features 🚀
 Experience the power of PomodoroKai with these exciting features:
 
